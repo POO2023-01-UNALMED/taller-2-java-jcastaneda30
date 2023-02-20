@@ -1,4 +1,4 @@
-package taller;
+package test;
 
 public class Motor {
 	public int numeroCilindros;
